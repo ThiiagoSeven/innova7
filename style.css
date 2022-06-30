@@ -78,6 +78,6 @@ h2 {
 /** CLIENTES **/
 
 .grayscale {
-  max-width: 20vh;
+  max-width: 25vh;
   filter: grayscale(100%);
 }
