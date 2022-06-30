@@ -79,4 +79,5 @@ h2 {
 
 .grayscale {
   max-width: 20vh;
+  filter: grayscale(100%);
 }
