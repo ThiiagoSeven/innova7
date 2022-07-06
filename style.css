@@ -12,6 +12,10 @@ section {
   background-image: url(./HERO_BANNER.jpg);
 }
 
+.contato {
+  background-image: url(./NOTEBOOK_BANNER.webp);
+}
+
 #hero p {
   color: #ffffff !important;
 }
