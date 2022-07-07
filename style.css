@@ -12,10 +12,6 @@ section {
   background-image: url(./HERO_BANNER.jpg);
 }
 
-.contato {
-  background-color: #181818;
-}
-
 #hero p {
   color: #ffffff !important;
 }
@@ -86,4 +82,12 @@ h2 {
   filter: grayscale(100%);
 }
 
+/** CONTATO **/
+.contato {
+  background-color: #181818;
+}
 /** FOOTER **/
+
+.footer {
+  background-color: #181818;
+}
