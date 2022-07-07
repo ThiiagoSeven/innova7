@@ -13,9 +13,7 @@ section {
 }
 
 .contato {
-  background-image: url(./NOTEBOOK_BANNER.webp);
-  background-position: fixed;
-  background-size: cover;
+  background-color: rgb(61, 61, 61);
 }
 
 #hero p {
